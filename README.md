@@ -30,7 +30,12 @@ Recipe Submission: Users can add new recipes to the website.
 
 ![User Interface 1](screenshots/pic1.png)
 ![User Interface 2](screenshots/pic2.png)
-
-![User Interface 1](screenshots/Picture3.jpg)
-![User Interface 2](screenshots/Picture4.jpg)
-![User Interface 1](screenshots/Picture5.jpg)
+![User Interface 1](screenshots/pic3.png)
+![User Interface 2](screenshots/pic4.png)
+![User Interface 1](screenshots/pic5.png)
+![User Interface 2](screenshots/pic6.png)
+![User Interface 1](screenshots/pic7.png)
+![User Interface 2](screenshots/pic8.png)
+![User Interface 1](screenshots/pic9.png)
+![User Interface 2](screenshots/pic10.png)
+![User Interface 1](screenshots/pic11.png)
