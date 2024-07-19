@@ -27,14 +27,10 @@ User Login: Users can log in to save their favorite recipes and contribute new o
 User Profile: Manage personal information and view contributed recipes.
 Recipe Submission: Users can add new recipes to the website.
 
-!(screenshot/pic1.png)
-!(screenshot/pic2.png)
-!(screenshot/pic3.png)
-!(screenshot/pic4.png)
-!(screenshot/pic5.png)
-!(screenshot/pic6.png)
-!(screenshot/pic7.png)
-!(screenshot/pic8.png)
-!(screenshot/pic9.png)
-!(screenshot/pic10.png)
-!(screenshot/pic11.png)
+
+![User Interface 1](screenshots/pic1.png)
+![User Interface 2](screenshots/pic2.png)
+
+![User Interface 1](screenshots/Picture3.jpg)
+![User Interface 2](screenshots/Picture4.jpg)
+![User Interface 1](screenshots/Picture5.jpg)
